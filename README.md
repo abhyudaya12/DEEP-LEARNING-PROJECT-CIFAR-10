@@ -5,6 +5,8 @@ Updated Readme!!
 DenseNet121 accuracy inc:95.7%
 VGG16 accuracy inc: 93.88%
 
+#This updated version will work on windows machine right off the bat unlike original one
+
 
 # Train CIFAR10 with PyTorch
 
