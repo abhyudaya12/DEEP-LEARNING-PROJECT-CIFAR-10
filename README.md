@@ -1,11 +1,13 @@
-Updated Readme!!
-#DEEP LEARNING FINAL PROJECT CODE UPDATED
-#INSTRUCTIONS AND INFORMATION BELOW IS FROM OLD GITHUB SOURCE(https://github.com/kuangliu/pytorch-cifar)
-#CHANGES OBSERVED:
-DenseNet121 accuracy inc:95.7%
-VGG16 accuracy inc: 93.88%
+# Updated Readme!!
+### DEEP LEARNING FINAL PROJECT CODE UPDATED
 
-#This updated version will work on windows machine right off the bat unlike original one
+### CHANGES OBSERVED:
+- DenseNet121 accuracy inc:95.7%
+- VGG16 accuracy inc: 93.88%
+
+### This updated version will work on windows machine right off the bat unlike original one
+
+### INSTRUCTIONS AND INFORMATION BELOW IS FROM OLD GITHUB SOURCE(https://github.com/kuangliu/pytorch-cifar)
 
 
 # Train CIFAR10 with PyTorch
