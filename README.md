@@ -47,3 +47,4 @@ python main.py --resume --lr=0.01
 
 "# DEEP-LEARNING-PROJECT-CIFAR-10" 
 "# DEEP-LEARNING-PROJECT-CIFAR-10" 
+#This was tested and confirmed.
